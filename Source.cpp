@@ -1,5 +1,4 @@
 //Nemeth Akos
-//HOM2DS
 //Harcosok Utja
 //rekord: lvl 10
 #include<string.h>
